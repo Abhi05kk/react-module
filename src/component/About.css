@@ -1,0 +1,17 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: justify;
+}
